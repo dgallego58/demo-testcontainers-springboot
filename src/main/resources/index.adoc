@@ -1,0 +1,15 @@
+= Mi bonita Documentación C:
+
+El feo Controller testeado en http://localhost:8080:
+
+.request
+el ejemplito con `curl`
+include::{snippets}/index/curl-request.adoc[]
+
+el ejemplito con `httpie`
+include::{snippets}/index/httpie-request.adoc[]
+
+.response
+include::{snippets}/index/http-response.adoc[]
+include::{snippets}/index/response-fields.adoc[]
+Easy peasy. Lemon squeezy.
